@@ -1,5 +1,8 @@
 # **IOT Project Report**
 
+### **NOTE: Please change stuff according to your topic, DO NOT COPY AS IS.**
+***
+
 #### **How much time will it take?**  
 
 Around 7-8hrs, probably a 1.5 day task.
@@ -21,6 +24,8 @@ Around 7-8hrs, probably a 1.5 day task.
 * All the diagrams' editables versions are present in ```editable_diagrams``` folder. I used [draw.io](https://app.diagrams.net/) to create the charts, which you can just use and edit to fit your project.
 
 * Refer the ```Template_Book.pdf``` for any explaination of what the step is doing.
+
+* I've also added my report as an example.
 
 #### **Tools needed**
 
