@@ -29,3 +29,9 @@ Around 7-8hrs, probably a 1.5 day task.
 * A circuit designing tool. I used [circuito.io](https://www.circuito.io/).
 
 * A presentation maker.
+
+#### **Points to note**
+
+* Step 5 is a combination of step 2 and 4
+
+* Step 6 is the IOT level diagram that your project belongs to (Refer the pdf in ```editable_diagrams```).
