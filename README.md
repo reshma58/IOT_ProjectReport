@@ -25,7 +25,7 @@ Around 7-8hrs, probably a 1.5 day task.
 
 * Refer the ```Template_Book.pdf``` for any explaination of what the step is doing.
 
-* I've also added my report as an example.
+
 
 #### **Tools needed**
 
